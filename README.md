@@ -1,1 +1,1 @@
-# GifTastic
+# GifTastic created by Bryan Kenneweg

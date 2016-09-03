@@ -1,0 +1,17 @@
+button {
+	margin:5px;
+}
+
+#buttonArea {
+	background-color:orange;
+}
+
+#gifArea {
+	background-color: lightblue;
+}
+
+.gifDiv {
+	float: left;
+	margin:5px;
+	border: 2px solid black;
+}
